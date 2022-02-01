@@ -375,3 +375,11 @@ Perfect for imitating a block, as long as the player is in Adventure Mode.
 -   Explodes on death.
 
 ---
+
+### minecraft:xp_orb
+
+-   Makes the entity follow player in a short distance.
+-   Prevents the entity from taking damage.
+-   Disables death animation, sound, and particles.
+-   Disappear when approach player 
+---
